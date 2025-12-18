@@ -1,6 +1,6 @@
-<<<<<<< HEAD
+
 # book-asad-book
-=======
+
 # Physical AI and Humanoid Robotics Handbook Project
 
 This repository contains the source code and documentation for the "Physical AI and Humanoid Robotics Handbook". The handbook is built using Docusaurus, a static site generator.
